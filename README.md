@@ -1,2 +1,2 @@
 # gitstudy
-git  test
+记录git学习
